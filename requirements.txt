@@ -1,0 +1,11 @@
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+pikepdf
+pdfplumber
+pandas
+sqlalchemy
+streamlit
+plotly
+anthropic
+python-dotenv

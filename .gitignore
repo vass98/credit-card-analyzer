@@ -1,0 +1,11 @@
+.env
+credentials/*.json
+data/statements/**/*.pdf
+data/account_statements/**/*.pdf
+data/*.sqlite3
+__pycache__/
+*.pyc
+venv/
+.venv/
+.streamlit/secrets.toml
+.claude/
